@@ -1,5 +1,3 @@
-# Homepage
-
 #### [Markdown Syntax Tests](tests/markdown-syntax)
 *September 24, 2022*
 
