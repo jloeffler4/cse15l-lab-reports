@@ -1,0 +1,1 @@
+![Screenshot of lab report 1 in VS code](screenshot.png)
