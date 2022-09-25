@@ -1,0 +1,9 @@
+pipelines:
+  branches:
+    main:
+      - step:
+          name: Mirror to GitHub
+          clone:
+            depth: full
+          script:
+            - git push --mirror git@github.com:jloeffler4/cse15l-lab-reports.git
