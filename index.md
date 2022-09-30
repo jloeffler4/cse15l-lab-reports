@@ -10,3 +10,10 @@ A sample page showing experiments and demonstrations of a wide range of Markdown
 *September 24, 2022*
 
 A simple markdown showing a screenshot of VS code during this site's development.
+
+---
+
+#### [Lab Report 1 (Week 1)](lab-report-1-week-1)
+*September 29, 2022*
+
+A tutorial of how to SSH into ieng6 at UCSD.
