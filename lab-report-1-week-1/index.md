@@ -1,3 +1,4 @@
+## Lab Report 1 (Week 1)
 ## How to connect to ieng6 (& more)
 
 #### Prerequisites
@@ -88,4 +89,4 @@ Another way to automate tasks such as this is with scripts. Using scripts is muc
 
 In Windows, this can be accomplished simply by putting all of the commands in a text file ending in `.bat` in your working directory, then typing the name of the `.bat` file to run it (e.g. if the file was named `u.bat`, running the `u` command would run the script). Note that this only works in Command Prompt, not PowerShell, which uses a separate and much more complicated scripting system.
 
-##### Congratulations! You've successfully connected to `ieng6` and setup highly configurable and efficient workflows for remote access! 🎉
+#### Congratulations! You've successfully connected to `ieng6` and setup highly configurable and efficient workflows for remote access! 🎉
