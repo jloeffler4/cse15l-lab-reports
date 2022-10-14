@@ -1,4 +1,4 @@
-## How to connect to ieng6 (& more)
+## Week 3 Lab Report
 
 ### Part 1: Explaining `SearchEngine.java`
 `SearchEngine.java`:
