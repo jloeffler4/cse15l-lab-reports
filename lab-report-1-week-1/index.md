@@ -57,6 +57,8 @@ To create an SSH key, run the following command, pressing enter, leaving all pro
 
 `ssh-keygen`
 
+![ssh-keygen command](./ssh-keygen.png)
+
 This will generate a keypair in your `~/.ssh` folder. To make the server trust your key, copy public part of the key (the one ending in `.pub`) to `~/.ssh/authorized_keys` on the server.
 
 Now the server trusts your generated SSH key, allowing you to login without a password!
