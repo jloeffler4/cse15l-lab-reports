@@ -128,6 +128,8 @@ The method will return unfiltered values in the same order as they were provided
 
 The method returns values in the opposite order that they were provided in: `<[C, B, A]>`.
 
+![Symptom 1 screenshot](./symptom1.png)
+
 **Bug in code:**
 
 At `ListExamples.java:15`:
@@ -174,6 +176,8 @@ The `append` method successfully appends the provided value to the `LinkedList`.
 **Actual behavior:**
 
 The method gets stuck in an infinite loop and must be forcefully terminated.
+
+![Symptom 2 screenshot](./symptom2.png)
 
 **Bug in code:**
 
