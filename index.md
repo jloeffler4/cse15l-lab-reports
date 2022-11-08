@@ -24,3 +24,10 @@ A tutorial of how to SSH into ieng6 at UCSD.
 *October 13, 2022*
 
 Writing & testing code.
+
+---
+
+#### [Week 5 Lab Report](lab-report-week-5)
+*November 7, 2022*
+
+Researching commands.
