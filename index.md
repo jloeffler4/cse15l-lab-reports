@@ -31,3 +31,10 @@ Writing & testing code.
 *November 7, 2022*
 
 Researching commands.
+
+---
+
+#### [Lab Report 5](lab-report-5)
+*November 27, 2022*
+
+Tracing bash scripts.
